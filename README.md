@@ -1,6 +1,6 @@
-# Fama-Macbeth-Regression-Trading-Strategy
+# Fama-French-3-Factor-Model-Trading-Strategy
 
-Explored Fama-MacBeth Regression Trading Strategies for a QF module. Other project members can be found in the project document. 
+Explored Fama-French 3 Factor Model Trading Strategies for a QF module. Other project members can be found in the project document. 
 <br/><br/>
 Includes:
 1) Data Extraction
