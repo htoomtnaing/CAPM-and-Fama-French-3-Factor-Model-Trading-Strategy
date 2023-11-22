@@ -1,6 +1,6 @@
-# Fama-French-3-Factor-Model-Trading-Strategy
+# CAPM & Fama-French-3-Factor-Model-Trading-Strategy
 
-Explored Fama-French 3 Factor Model Trading Strategies for a QF module. Other project members can be found in the project document. 
+Explored CAPM and Fama-French 3 Factor Model Trading Strategies for a QF module. Other project members can be found in the project document. 
 <br/><br/>
 Includes:
 1) Data Extraction
